@@ -1,0 +1,7 @@
+# Initialize a new Node.js project
+mkdir tech-trust-backend
+cd tech-trust-backend
+npm init -y
+
+# Install necessary packages
+npm install express firebase-admin body-parser
